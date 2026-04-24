@@ -1,6 +1,6 @@
 Department Vacancies Database
 
-Database Description: Di$erent departments in a company have posted vacant positions
+Database Description: Different departments in a company have posted vacant positions
 where candidates may apply provided, they have the appropriate skills. Given this
 information, tables were created regarding skills, candidate, position, department and
 interview details. Stored procedures were created to allow the user to easily filter through
