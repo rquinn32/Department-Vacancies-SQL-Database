@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.43, for macos15 (x86_64)
 --
--- Host: localhost    Database: quinn25275889
+-- Host: localhost    Database: Department_Vacancies 
 -- ------------------------------------------------------
 -- Server version	8.0.43
 
